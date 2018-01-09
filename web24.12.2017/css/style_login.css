@@ -1,0 +1,59 @@
+
+/*entire form*/
+/*login form align to left*/
+.login-signin form {
+
+	float:left;
+	margin-left:400px;
+	margin-top:200px
+}
+.login-reg form {
+	
+	float:right;
+	margin-right:400px;
+	margin-top:200px
+	
+	
+}
+/*input field size*/
+.login-signin input {
+	
+	width: 200px;
+	float:right;
+	
+	
+}
+.input_area {
+	
+margin-bottom:10px;	
+
+}
+.login-signin {
+	
+	width: 625px;
+	float:left;
+	
+	
+}
+.signin-rit label {
+	display:inline-block;
+	font-size:0.7em;
+	margin-left:50px;
+	
+}
+.register-form input {
+	
+	width:200px;
+	float:right;
+}
+
+.sign_reg_button {
+	margin-top:10px;
+	float:right;
+	width:200px;
+}
+.login-reg {
+	width: 625px;
+	float:right;
+	
+}
